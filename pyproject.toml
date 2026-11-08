@@ -1,0 +1,13 @@
+[project]
+name = "financial-sentiment-trading"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lightgbm>=4.7.0",
+    "newsapi>=0.1.1",
+    "newsapi-python>=0.2.7",
+    "seaborn>=0.13.2",
+    "torch>=2.14.1",
+]
